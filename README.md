@@ -1,10 +1,9 @@
 <div align="center">
 
-### Desenvolvedor de Software
+### Desenvolvedor Full Stack
 Desenvolvendo soluções robustas, escaláveis e de alta performance.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Delphi;Backend+Developer;APIs+REST;Docker;Linux;Sempre+aprendendo+novas+tecnologias" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Object+Pascal;APIs+REST;Nginx;Automa%C3%A7%C3%A3o+com+n8n;Chatbots" />
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseildo-rodrigues)
