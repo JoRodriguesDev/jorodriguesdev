@@ -81,11 +81,6 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jorodriguesdev&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorodriguesdev&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=jorodriguesdev&theme=github-dark-blue&hide_border=true"/>
 
 </div>
