@@ -3,7 +3,7 @@
 ### Desenvolvedor Full Stack
 Desenvolvendo soluções robustas, escaláveis e de alta performance.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Object+Pascal;APIs+REST;Nginx;Automa%C3%A7%C3%A3o+com+n8n;Chatbots" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Object+Pascal;APIs+REST;Nginx;Automa%C3%A7%C3%A3o+com+n8n;Agentes de IA" />
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseildo-rodrigues)
@@ -16,7 +16,7 @@ Desenvolvendo soluções robustas, escaláveis e de alta performance.
 
 ## Sobre mim
 
-Sou desenvolvedor de software com experiência na criação de aplicações desktop, APIs REST, integrações entre sistemas e infraestrutura baseada em containers.
+Sou desenvolvedor de software com experiência na criação de aplicações desktop, APIs REST e integrações entre sistemas — sem drama, sem gambiarra.
 
 Gosto de desenvolver soluções simples, performáticas e fáceis de manter, aplicando boas práticas de arquitetura e código limpo.
 
@@ -28,7 +28,7 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 |---|---|
 | 💻 Desenvolvimento de Software | 🗄️ Banco de Dados |
 | 🔌 APIs REST | 🐳 Docker |
-| ⚙️ Integração entre Sistemas | 🖥️ Linux |
+| 🤖 Automação e Agentes de IA | 🖥️ Linux |
 | ☁️ Infraestrutura | 🔒 Segurança e Autenticação |
 
 <br>
@@ -38,7 +38,7 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 ### Linguagens
 
 <p>
-<img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object_Pascal-CC342D?style=for-the-badge&logo=delphi&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -58,6 +58,7 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
