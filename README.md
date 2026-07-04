@@ -3,7 +3,8 @@
 ### Desenvolvedor Full Stack
 Desenvolvendo soluções robustas, escaláveis e de alta performance.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Object+Pascal;APIs+REST;Nginx;Automa%C3%A7%C3%A3o+com+n8n;Agentes de IA" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Object+Pascal;APIs+REST;Nginx;Automa%C3%A7%C3%A3o+com+n8n;Agentes+de+IA" />
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseildo-rodrigues)
@@ -16,10 +17,7 @@ Desenvolvendo soluções robustas, escaláveis e de alta performance.
 
 ## Sobre mim
 
-Sou desenvolvedor de software com experiência na criação de aplicações desktop, APIs REST e integrações entre sistemas — sem drama, sem gambiarra.
-
-Gosto de desenvolver soluções simples, performáticas e fáceis de manter, aplicando boas práticas de arquitetura e código limpo.
-
+Desenvolvedor de software com experiência em aplicações desktop, web e mobile, APIs REST e integrações entre sistemas. Sempre priorizando código limpo, boas práticas e soluções bem estruturadas.
 <br>
 
 ## Áreas de atuação
