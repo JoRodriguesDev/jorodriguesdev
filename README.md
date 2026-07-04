@@ -15,7 +15,7 @@ Desenvolvendo soluções robustas, escaláveis e de alta performance.
 
 </div>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor de software com experiência na criação de aplicações desktop, APIs REST, integrações entre sistemas e infraestrutura baseada em containers.
 
@@ -23,7 +23,7 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 
 <br>
 
-## 🚀 Áreas de atuação
+## Áreas de atuação
 
 | | |
 |---|---|
@@ -34,7 +34,7 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 
 <br>
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Linguagens
 
@@ -73,7 +73,7 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 
 <br>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
