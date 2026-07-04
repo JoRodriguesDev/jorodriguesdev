@@ -43,19 +43,23 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 ### Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp,python" height="45"/>
 </p>
 
-**Também trabalho com:** Delphi
+<p>
+<img src="https://img.shields.io/badge/Delphi-CC342D?style=flat-square&logo=delphi&logoColor=white"/>
+</p>
 
 ### Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" height="45"/>
 </p>
 
-**Também trabalho com:** Firebird · SQL Server · Redis
+<p>
+<img src="https://img.shields.io/badge/Firebird-D95F02?style=flat-square&logo=firebird&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ### Ferramentas e Infraestrutura
 
@@ -63,7 +67,13 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,nginx" height="45"/>
 </p>
 
-**Também trabalho com:** RabbitMQ · Portainer · Traefik · Swagger · JWT
+<p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikmesh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
 <br>
 
