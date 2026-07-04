@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Joseildo Rodrigues
 ### Desenvolvedor de Software
-
 Desenvolvendo soluções robustas, escaláveis e de alta performance.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Delphi;Backend+Developer;APIs+REST;Docker;Linux;Sempre+aprendendo+novas+tecnologias" />
@@ -16,8 +14,6 @@ Desenvolvendo soluções robustas, escaláveis e de alta performance.
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=jorodriguesdev.jorodriguesdev)
 
 </div>
-
-<br>
 
 ## 👨‍💻 Sobre mim
 
