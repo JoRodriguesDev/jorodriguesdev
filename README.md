@@ -81,8 +81,8 @@ Gosto de desenvolver soluções simples, performáticas e fáceis de manter, apl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jorodriguesdev&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorodriguesdev&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jorodriguesdev&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorodriguesdev&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br>
 
